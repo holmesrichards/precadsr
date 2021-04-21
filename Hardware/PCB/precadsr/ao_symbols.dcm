@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2_pin_Molex_connector
+D 2 pin Molex connector 2.54 mm spacing
+K connector
+F ~
+$ENDCMP
+#
+$CMP 2_pin_Molex_header
+D 2 pin Molex header 2.54 mm spacing
+K connector
+F ~
+$ENDCMP
+#
+$CMP 3_pin_Molex_connector
+D 3 pin Molex connector 2.54 mm spacing
+K connector
+F ~
+$ENDCMP
+#
+$CMP 3_pin_Molex_header
+D 3 pin Molex header 2.54 mm spacing
+K connector
+F ~
+$ENDCMP
+#
+$CMP R_SLIDE_POT
+D Slide potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP SW_3PDT_x3
+D Switch, triple pole double throw, separate symbols
+K switch triple-pole double-throw DPDT 3pdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP Screw_Terminal_01x03
+D Screw terminal, single row, 01x03
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP Synth_power_2x5
+D 2x5 pin shrouded header 2.54 mm spacing
+$ENDCMP
+#
+$CMP Synth_power_2x5_passive
+D 2x5 pin shrouded header 2.54 mm spacing
+$ENDCMP
+#
+#End Doc Library
