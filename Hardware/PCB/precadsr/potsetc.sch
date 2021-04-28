@@ -385,7 +385,7 @@ P 5550 4550
 AR Path="/60A9C088" Ref="R?"  Part="1" 
 AR Path="/607ED812/60A9C088" Ref="R14"  Part="1" 
 F 0 "R14" V 5343 4550 50  0000 C CNN
-F 1 "B20k" V 5434 4550 50  0000 C CNN
+F 1 "B10k" V 5434 4550 50  0000 C CNN
 F 2 "ao_tht:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles_centered" H 5550 4550 50  0001 C CNN
 F 3 "~" H 5550 4550 50  0001 C CNN
 	1    5550 4550
@@ -417,7 +417,7 @@ P 5550 5350
 AR Path="/60802BB2" Ref="R?"  Part="1" 
 AR Path="/607ED812/60802BB2" Ref="R114"  Part="1" 
 F 0 "R114" V 5343 5350 50  0000 C CNN
-F 1 "B20k" V 5434 5350 50  0000 C CNN
+F 1 "B10k" V 5434 5350 50  0000 C CNN
 F 2 "ao_tht:Potentiometer_Alpha_16mm_Single_Vertical" H 5550 5350 50  0001 C CNN
 F 3 "~" H 5550 5350 50  0001 C CNN
 	1    5550 5350
