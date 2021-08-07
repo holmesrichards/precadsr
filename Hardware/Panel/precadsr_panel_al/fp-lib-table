@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Kosmo_panel)(type KiCad)(uri ${KICAD_USER_TEMPLATE_DIR}/Kosmo_panel_100mm/Kosmo_panel.pretty)(options "")(descr ""))
+  (lib (name precadsr-panel)(type KiCad)(uri "/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Hardware/Panel/precadsr_panel_al/precadsr_panel_al.pretty")(options "")(descr ""))
+)

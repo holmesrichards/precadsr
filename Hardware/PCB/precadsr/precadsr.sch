@@ -325,7 +325,7 @@ U 1 1 607DD01C
 P 2700 4200
 F 0 "U1" H 2700 4781 50  0000 C CNN
 F 1 "ICM7555xP" H 2700 4690 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 3350 3800 50  0001 C CNN
+F 2 "ao_tht:DIP-8_W7.62mm_Socket_LongPads" H 3350 3800 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/Intersil/documents/icm7/icm7555-56.pdf" H 3550 3800 50  0001 C CNN
 	1    2700 4200
 	1    0    0    -1  
@@ -1133,10 +1133,10 @@ F 3 "~" H 7400 3350 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR038
+L power:GND #PWR039
 U 1 1 6092D146
 P 8250 3550
-F 0 "#PWR038" H 8250 3300 50  0001 C CNN
+F 0 "#PWR039" H 8250 3300 50  0001 C CNN
 F 1 "GND" H 8255 3377 50  0000 C CNN
 F 2 "" H 8250 3550 50  0001 C CNN
 F 3 "" H 8250 3550 50  0001 C CNN
@@ -1374,10 +1374,10 @@ F 3 "" H 4300 7400 50  0001 C CNN
 $EndComp
 Connection ~ 4300 7400
 $Comp
-L power:GND #PWR042
+L power:GND #PWR043
 U 1 1 60915D1C
 P 9600 3350
-F 0 "#PWR042" H 9600 3100 50  0001 C CNN
+F 0 "#PWR043" H 9600 3100 50  0001 C CNN
 F 1 "GND" H 9605 3177 50  0000 C CNN
 F 2 "" H 9600 3350 50  0001 C CNN
 F 3 "" H 9600 3350 50  0001 C CNN
@@ -1421,10 +1421,10 @@ Connection ~ 9000 4850
 Wire Wire Line
 	9000 4850 9050 4850
 $Comp
-L power:GND #PWR041
+L power:GND #PWR042
 U 1 1 60882302
 P 9500 5200
-F 0 "#PWR041" H 9500 4950 50  0001 C CNN
+F 0 "#PWR042" H 9500 4950 50  0001 C CNN
 F 1 "GND" H 9505 5027 50  0000 C CNN
 F 2 "" H 9500 5200 50  0001 C CNN
 F 3 "" H 9500 5200 50  0001 C CNN
@@ -1571,31 +1571,6 @@ Text Label 7000 2200 0    50   ~ 0
 TIN
 Wire Wire Line
 	6800 2200 7600 2200
-Wire Wire Line
-	9100 5750 9100 6200
-Wire Wire Line
-	9100 6200 9000 6200
-$Comp
-L power:GND #PWR039
-U 1 1 60A2AECA
-P 8300 6400
-F 0 "#PWR039" H 8300 6150 50  0001 C CNN
-F 1 "GND" H 8305 6227 50  0000 C CNN
-F 2 "" H 8300 6400 50  0001 C CNN
-F 3 "" H 8300 6400 50  0001 C CNN
-	1    8300 6400
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8400 6300 8300 6300
-Wire Wire Line
-	8300 6300 8300 6400
-Wire Wire Line
-	8300 5750 9100 5750
-Wire Wire Line
-	8300 6100 8300 5750
-Wire Wire Line
-	8400 6100 8300 6100
 Wire Notes Line
 	2150 600  2150 1600
 Wire Notes Line
@@ -1683,10 +1658,10 @@ Wire Wire Line
 Text GLabel 9850 5600 0    50   Output ~ 0
 SPEED_3
 $Comp
-L power:GND #PWR040
+L power:GND #PWR041
 U 1 1 609A5F31
 P 9450 6300
-F 0 "#PWR040" H 9450 6050 50  0001 C CNN
+F 0 "#PWR041" H 9450 6050 50  0001 C CNN
 F 1 "GND" H 9455 6127 50  0000 C CNN
 F 2 "" H 9450 6300 50  0001 C CNN
 F 3 "" H 9450 6300 50  0001 C CNN
@@ -1733,39 +1708,6 @@ Connection ~ 9900 5600
 Wire Wire Line
 	9450 5800 9900 5800
 $Comp
-L Amplifier_Operational:TL072 U3
-U 1 1 60A83E1C
-P 8700 6200
-F 0 "U3" H 8700 5833 50  0000 C CNN
-F 1 "TL072" H 8700 5924 50  0000 C CNN
-F 2 "ao_tht:DIP-8_W7.62mm_Socket_LongPads" H 8700 6200 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8700 6200 50  0001 C CNN
-	1    8700 6200
-	1    0    0    1   
-$EndComp
-$Comp
-L Amplifier_Operational:TL072 U3
-U 2 1 60A90EE3
-P 8250 4250
-F 0 "U3" H 8250 4617 50  0000 C CNN
-F 1 "TL072" H 8250 4526 50  0000 C CNN
-F 2 "ao_tht:DIP-8_W7.62mm_Socket_LongPads" H 8250 4250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8250 4250 50  0001 C CNN
-	2    8250 4250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Amplifier_Operational:TL072 U3
-U 3 1 60A93791
-P 5750 7100
-F 0 "U3" H 5562 7146 50  0000 R CNN
-F 1 "TL072" H 5562 7055 50  0000 R CNN
-F 2 "ao_tht:DIP-8_W7.62mm_Socket_LongPads" H 5750 7100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5750 7100 50  0001 C CNN
-	3    5750 7100
-	-1   0    0    -1  
-$EndComp
-$Comp
 L Device:C C8
 U 1 1 60AB3E29
 P 5400 6950
@@ -1789,11 +1731,6 @@ F 3 "" H 5400 6800 50  0001 C CNN
 	1    5400 6800
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5850 6800 5400 6800
-Connection ~ 5400 6800
-Wire Wire Line
-	5850 7400 5400 7400
 Wire Wire Line
 	5150 7100 5400 7100
 $Comp
@@ -1822,6 +1759,36 @@ F 5 "A-553" H 5400 7250 50  0001 C CNN "SKU"
 	1    0    0    -1  
 $EndComp
 $Comp
+L Amplifier_Operational:TL071 U3
+U 1 1 6110507C
+P 8250 4250
+F 0 "U3" H 8594 4296 50  0000 L CNN
+F 1 "TL071" H 8594 4205 50  0000 L CNN
+F 2 "ao_tht:DIP-8_W7.62mm_Socket_LongPads" H 8300 4300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8400 4400 50  0001 C CNN
+	1    8250 4250
+	1    0    0    -1  
+$EndComp
+NoConn ~ 8250 4550
+NoConn ~ 8350 4550
+$Comp
+L power:+12V #PWR040
+U 1 1 61121EFD
+P 8400 4050
+F 0 "#PWR040" H 8400 3900 50  0001 C CNN
+F 1 "+12V" H 8415 4223 50  0000 C CNN
+F 2 "" H 8400 4050 50  0001 C CNN
+F 3 "" H 8400 4050 50  0001 C CNN
+	1    8400 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8150 3950 8300 3950
+Wire Wire Line
+	8300 3950 8300 4050
+Wire Wire Line
+	8300 4050 8400 4050
+$Comp
 L power:-12V #PWR029
 U 1 1 60AB3E48
 P 5400 7400
@@ -1832,5 +1799,17 @@ F 3 "" H 5400 7400 50  0001 C CNN
 	1    5400 7400
 	-1   0    0    1   
 $EndComp
-Connection ~ 5400 7400
+$Comp
+L power:-12V #PWR038
+U 1 1 610F6935
+P 8150 4550
+F 0 "#PWR038" H 8150 4650 50  0001 C CNN
+F 1 "-12V" H 8165 4723 50  0000 C CNN
+F 2 "" H 8150 4550 50  0001 C CNN
+F 3 "" H 8150 4550 50  0001 C CNN
+	1    8150 4550
+	-1   0    0    1   
+$EndComp
+Text Notes 5650 7150 0    50   ~ 0
+(near TL071)
 $EndSCHEMATC
