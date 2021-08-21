@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name Kosmo_panel)(type Legacy)(uri ${KIPRJMOD}/../../lib/Kosmo_panel/Kosmo.lib)(options "")(descr ""))
-  (lib (name ao_symbols)(type Legacy)(uri ${KIPRJMOD}/../../lib/aoKicad/ao_symbols.lib)(options "")(descr ""))
-)
