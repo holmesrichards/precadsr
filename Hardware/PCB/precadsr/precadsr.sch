@@ -14,19 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Device:D_Schottky D1
-U 1 1 5F73FA24
-P 2400 6900
-F 0 "D1" H 2400 6684 50  0000 C CNN
-F 1 "1N5817" H 2400 6775 50  0000 C CNN
-F 2 "ao_tht:D_DO-41_SOD81_P7.62mm_Horizontal" H 2400 6900 50  0001 C CNN
-F 3 "~" H 2400 6900 50  0001 C CNN
-F 4 "Tayda" H 2400 6900 50  0001 C CNN "Vendor"
-F 5 "A-159" H 2400 6900 50  0001 C CNN "SKU"
-	1    2400 6900
-	-1   0    0    1   
-$EndComp
-$Comp
 L Device:CP C3
 U 1 1 5F73FA30
 P 3650 6950
@@ -136,20 +123,6 @@ $EndComp
 Text Label 1800 6900 0    50   ~ 0
 +12_IN
 $Comp
-L ao_symbols:Synth_power_2x5 J1
-U 1 1 6074DF58
-P 1250 7100
-F 0 "J1" H 1250 7547 60  0000 C CNN
-F 1 "Synth_power_2x5" H 1250 7441 60  0000 C CNN
-F 2 "ao_tht:Power_Header" H 1250 7100 60  0001 C CNN
-F 3 "" H 1250 7100 60  0001 C CNN
-F 4 "Tayda" H 1250 7100 50  0001 C CNN "Vendor"
-F 5 "A-2939" H 1250 7100 50  0001 C CNN "SKU"
-	1    1250 7100
-	1    0    0    -1  
-$EndComp
-Connection ~ 1700 6900
-$Comp
 L power:PWR_FLAG #FLG01
 U 1 1 6074F48A
 P 2700 6900
@@ -188,17 +161,6 @@ F 3 "~" H 2900 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Diode:1N4148 D3
-U 1 1 607BA32B
-P 3150 2400
-F 0 "D3" V 3104 2480 50  0000 L CNN
-F 1 "1N4148" V 3195 2480 50  0000 L CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 3150 2225 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3150 2400 50  0001 C CNN
-	1    3150 2400
-	0    1    1    0   
-$EndComp
-$Comp
 L Device:R R8
 U 1 1 607BB4ED
 P 3550 1700
@@ -210,13 +172,15 @@ F 3 "~" H 3550 1700 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Transistor_BJT:2N3904 Q3
+L ao_symbols:2N3904 Q3
 U 1 1 607BDC69
 P 4200 2150
 F 0 "Q3" H 4390 2196 50  0000 L CNN
 F 1 "2N3904" H 4390 2105 50  0000 L CNN
 F 2 "ao_tht:TO-92_Inline_Wide" H 4400 2075 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" H 4200 2150 50  0001 L CNN
+F 4 "A-111" H 4200 2150 50  0001 C CNN "SKU"
+F 5 "Tayda" H 4200 2150 50  0001 C CNN "Vendor"
 	1    4200 2150
 	1    0    0    -1  
 $EndComp
@@ -241,17 +205,6 @@ F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 4988 1750 50  00
 F 3 "~" H 4950 1900 50  0001 C CNN
 	1    4950 1900
 	0    1    1    0   
-$EndComp
-$Comp
-L Transistor_BJT:2N3904 Q1
-U 1 1 607C3EBC
-P 1300 4250
-F 0 "Q1" H 1490 4296 50  0000 L CNN
-F 1 "2N3904" H 1490 4205 50  0000 L CNN
-F 2 "ao_tht:TO-92_Inline_Wide" H 1500 4175 50  0001 L CIN
-F 3 "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" H 1300 4250 50  0001 L CNN
-	1    1300 4250
-	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R1
@@ -370,17 +323,6 @@ F 3 "" H 1800 4650 50  0001 C CNN
 	1    1800 4650
 	1    0    0    -1  
 $EndComp
-$Comp
-L Diode:1N4148 D4
-U 1 1 607ED66B
-P 4100 4000
-F 0 "D4" H 4100 3783 50  0000 C CNN
-F 1 "1N4148" H 4100 3874 50  0000 C CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 4100 3825 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 4000 50  0001 C CNN
-	1    4100 4000
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	4200 5200 4250 5200
 Wire Wire Line
@@ -481,19 +423,6 @@ F 3 "~" H 2700 7300 50  0001 C CNN
 	1    2700 7300
 	1    0    0    1   
 $EndComp
-$Comp
-L Device:D_Schottky D2
-U 1 1 6074E3B2
-P 2400 7300
-F 0 "D2" H 2400 7084 50  0000 C CNN
-F 1 "1N5817" H 2400 7175 50  0000 C CNN
-F 2 "ao_tht:D_DO-41_SOD81_P7.62mm_Horizontal" H 2400 7300 50  0001 C CNN
-F 3 "~" H 2400 7300 50  0001 C CNN
-F 4 "Tayda" H 2400 7300 50  0001 C CNN "Vendor"
-F 5 "A-159" H 2400 7300 50  0001 C CNN "SKU"
-	1    2400 7300
-	1    0    0    1   
-$EndComp
 Text Label 1800 7300 0    50   ~ 0
 -12_IN
 $Comp
@@ -510,9 +439,6 @@ $EndComp
 Connection ~ 2700 7300
 Wire Wire Line
 	2550 7300 2700 7300
-Connection ~ 1700 7300
-Wire Wire Line
-	1700 7300 2250 7300
 $Comp
 L Device:R R3
 U 1 1 607D9F9B
@@ -592,35 +518,24 @@ F 3 "~" H 4050 2650 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U2
-U 1 1 60810D04
-P 3900 6000
-F 0 "U2" H 3900 5633 50  0000 C CNN
-F 1 "TL074" H 3900 5724 50  0000 C CNN
-F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3850 6100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3950 6200 50  0001 C CNN
-	1    3900 6000
-	1    0    0    1   
-$EndComp
-$Comp
-L Amplifier_Operational:TL074 U2
+L ao_symbols:TL074 U2
 U 2 1 6081128C
 P 3900 5200
 F 0 "U2" H 3900 4833 50  0000 C CNN
 F 1 "TL074" H 3900 4924 50  0000 C CNN
 F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3850 5300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3950 5400 50  0001 C CNN
+F 3 "" H 3950 5400 50  0001 C CNN
 	2    3900 5200
 	1    0    0    1   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U2
+L ao_symbols:TL074 U2
 U 4 1 60813D9B
 P 6650 4300
 F 0 "U2" H 6650 3933 50  0000 C CNN
 F 1 "TL074" H 6650 4024 50  0000 C CNN
 F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 6600 4400 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6700 4500 50  0001 C CNN
+F 3 "" H 6700 4500 50  0001 C CNN
 	4    6650 4300
 	1    0    0    1   
 $EndComp
@@ -631,7 +546,7 @@ P 4850 7100
 F 0 "U2" H 4808 7146 50  0000 L CNN
 F 1 "TL074" H 4808 7055 50  0000 L CNN
 F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 4800 7200 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 4900 7300 50  0001 C CNN
+F 3 "" H 4900 7300 50  0001 C CNN
 	5    4850 7100
 	1    0    0    -1  
 $EndComp
@@ -662,17 +577,6 @@ F 5 "A-553" H 4300 7250 50  0001 C CNN "SKU"
 	1    4300 7250
 	1    0    0    -1  
 $EndComp
-$Comp
-L Diode:1N4148 D5
-U 1 1 6082B445
-P 4250 4950
-F 0 "D5" V 4296 5030 50  0000 L CNN
-F 1 "1N4148" V 4205 5030 50  0000 L CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 4250 4775 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4250 4950 50  0001 C CNN
-	1    4250 4950
-	0    1    -1   0   
-$EndComp
 Wire Wire Line
 	4250 4800 4250 4750
 Wire Wire Line
@@ -690,17 +594,6 @@ Wire Wire Line
 	3550 5550 3550 5900
 Wire Wire Line
 	3550 5900 3600 5900
-$Comp
-L Diode:1N4148 D6
-U 1 1 608695B4
-P 4250 5750
-F 0 "D6" V 4296 5830 50  0000 L CNN
-F 1 "1N4148" V 4205 5830 50  0000 L CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 4250 5575 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4250 5750 50  0001 C CNN
-	1    4250 5750
-	0    1    -1   0   
-$EndComp
 Wire Wire Line
 	4250 5600 4250 5550
 Wire Wire Line
@@ -742,13 +635,13 @@ Wire Wire Line
 	6650 5300 6600 5300
 Connection ~ 6650 5300
 $Comp
-L Amplifier_Operational:TL074 U2
+L ao_symbols:TL074 U2
 U 3 1 60811E8E
 P 6300 5300
 F 0 "U2" H 6300 4933 50  0000 C CNN
 F 1 "TL074" H 6300 5024 50  0000 C CNN
 F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 6250 5400 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6350 5500 50  0001 C CNN
+F 3 "" H 6350 5500 50  0001 C CNN
 	3    6300 5300
 	1    0    0    1   
 $EndComp
@@ -765,17 +658,6 @@ Wire Wire Line
 	6250 4500 6250 4400
 Wire Wire Line
 	6250 4400 6350 4400
-$Comp
-L Diode:1N4148 D8
-U 1 1 6090A5D1
-P 6700 3750
-F 0 "D8" H 6700 3533 50  0000 C CNN
-F 1 "1N4148" H 6700 3624 50  0000 C CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 3575 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6700 3750 50  0001 C CNN
-	1    6700 3750
-	1    0    0    1   
-$EndComp
 $Comp
 L Device:R R13
 U 1 1 6090B8DB
@@ -926,17 +808,6 @@ F 3 "~" H 7850 2200 50  0001 C CNN
 	1    7850 2200
 	0    1    1    0   
 $EndComp
-$Comp
-L Diode:1N4148 D7
-U 1 1 608FE06A
-P 5350 1900
-F 0 "D7" H 5350 1683 50  0000 C CNN
-F 1 "1N4148" H 5350 1774 50  0000 C CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 5350 1725 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5350 1900 50  0001 C CNN
-	1    5350 1900
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	5100 1900 5150 1900
 Wire Wire Line
@@ -972,17 +843,6 @@ $EndComp
 Connection ~ 5150 1900
 Wire Wire Line
 	5150 1900 5200 1900
-$Comp
-L Diode:1N4148 D9
-U 1 1 609412D3
-P 8250 2200
-F 0 "D9" H 8250 1983 50  0000 C CNN
-F 1 "1N4148" H 8250 2074 50  0000 C CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 8250 2025 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8250 2200 50  0001 C CNN
-	1    8250 2200
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	8000 2200 8050 2200
 Text GLabel 8400 2200 2    50   Output ~ 0
@@ -1073,52 +933,8 @@ Wire Wire Line
 	1900 1200 1900 1350
 Wire Wire Line
 	1900 1350 1800 1350
-$Comp
-L Connector:AudioJack2_SwitchT J2
-U 1 1 60BB84E7
-P 1350 2150
-F 0 "J2" H 1400 1750 50  0000 R CNN
-F 1 "AudioJack2_SwitchT" H 1800 1850 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 1350 2150 50  0001 C CNN
-F 3 "~" H 1350 2150 50  0001 C CNN
-	1    1350 2150
-	1    0    0    1   
-$EndComp
-$Comp
-L Connector:AudioJack2 J3
-U 1 1 60C24DAC
-P 6600 2200
-F 0 "J3" H 6421 2183 50  0000 R CNN
-F 1 "AudioJack2" H 6421 2274 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 6600 2200 50  0001 C CNN
-F 3 "~" H 6600 2200 50  0001 C CNN
-	1    6600 2200
-	1    0    0    1   
-$EndComp
 Text Notes 8050 5550 2    50   ~ 0
 ENV OUT
-$Comp
-L Connector:AudioJack2 J4
-U 1 1 60C60E56
-P 7850 5300
-F 0 "J4" H 7671 5283 50  0000 R CNN
-F 1 "AudioJack2" H 7671 5374 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 7850 5300 50  0001 C CNN
-F 3 "~" H 7850 5300 50  0001 C CNN
-	1    7850 5300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:AudioJack2 J5
-U 1 1 60C6E59B
-P 8800 3350
-F 0 "J5" H 8621 3333 50  0000 R CNN
-F 1 "AudioJack2" H 8621 3424 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 8800 3350 50  0001 C CNN
-F 3 "~" H 8800 3350 50  0001 C CNN
-	1    8800 3350
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	8250 3450 8250 3550
 $Comp
@@ -1155,13 +971,15 @@ Wire Wire Line
 Wire Wire Line
 	8650 4250 8550 4250
 $Comp
-L Transistor_BJT:2N3904 Q2
+L ao_symbols:2N3904 Q2
 U 1 1 607BC569
 P 3450 2150
 F 0 "Q2" H 3640 2196 50  0000 L CNN
 F 1 "2N3904" H 3640 2105 50  0000 L CNN
 F 2 "ao_tht:TO-92_Inline_Wide" H 3650 2075 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" H 3450 2150 50  0001 L CNN
+F 4 "A-111" H 3450 2150 50  0001 C CNN "SKU"
+F 5 "Tayda" H 3450 2150 50  0001 C CNN "Vendor"
 	1    3450 2150
 	1    0    0    -1  
 $EndComp
@@ -1354,7 +1172,7 @@ F 0 "C10" V 5448 5850 50  0000 C CNN
 F 1 "1uF" V 5539 5850 50  0000 C CNN
 F 2 "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5738 5700 50  0001 C CNN
 F 3 "~" H 5700 5850 50  0001 C CNN
-F 4 "Taydaa" V 5700 5850 50  0001 C CNN "Vendor"
+F 4 "Tayda" V 5700 5850 50  0001 C CNN "Vendor"
 F 5 "A-4755" V 5700 5850 50  0001 C CNN "SKU"
 	1    5700 5850
 	0    1    1    0   
@@ -1396,22 +1214,11 @@ L Device:C C13
 U 1 1 6085235D
 P 8800 4850
 F 0 "C13" V 8548 4850 50  0000 C CNN
-F 1 "1 nF" V 8639 4850 50  0000 C CNN
+F 1 "1nF" V 8639 4850 50  0000 C CNN
 F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 8838 4700 50  0001 C CNN
 F 3 "~" H 8800 4850 50  0001 C CNN
 	1    8800 4850
 	0    1    1    0   
-$EndComp
-$Comp
-L Diode:1N4148 D10
-U 1 1 60852363
-P 9200 4850
-F 0 "D10" H 9200 4633 50  0000 C CNN
-F 1 "1N4148" H 9200 4724 50  0000 C CNN
-F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 4675 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 4850 50  0001 C CNN
-	1    9200 4850
-	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	8950 4850 9000 4850
@@ -1760,17 +1567,6 @@ F 5 "A-553" H 5400 7250 50  0001 C CNN "SKU"
 	1    5400 7250
 	1    0    0    -1  
 $EndComp
-$Comp
-L Amplifier_Operational:TL071 U3
-U 1 1 6110507C
-P 8250 4250
-F 0 "U3" H 8594 4296 50  0000 L CNN
-F 1 "TL071" H 8594 4205 50  0000 L CNN
-F 2 "ao_tht:DIP-8_W7.62mm_Socket_LongPads" H 8300 4300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8400 4400 50  0001 C CNN
-	1    8250 4250
-	1    0    0    -1  
-$EndComp
 NoConn ~ 8250 4550
 NoConn ~ 8350 4550
 $Comp
@@ -1814,4 +1610,242 @@ F 3 "" H 8150 4550 50  0001 C CNN
 $EndComp
 Text Notes 5650 7150 0    50   ~ 0
 (near TL071)
+$Comp
+L ao_symbols:AudioJack2_SwitchT J2
+U 1 1 612B572A
+P 1350 2150
+F 0 "J2" H 1400 1800 50  0000 R CNN
+F 1 "AudioJack2_SwitchT" H 1700 1900 50  0000 R CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 1350 2150 50  0001 C CNN
+F 3 "~" H 1350 2150 50  0001 C CNN
+F 4 "Tayda" H 1350 2150 50  0001 C CNN "Vendor"
+F 5 "A-1121" H 1350 2150 50  0001 C CNN "SKU"
+	1    1350 2150
+	1    0    0    1   
+$EndComp
+$Comp
+L ao_symbols:AudioJack2 J3
+U 1 1 612D5C89
+P 6600 2200
+F 0 "J3" H 6421 2183 50  0000 R CNN
+F 1 "AudioJack2" H 6421 2274 50  0000 R CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 6600 2200 50  0001 C CNN
+F 3 "~" H 6600 2200 50  0001 C CNN
+F 4 "Tayda" H 6600 2200 50  0001 C CNN "Vendor"
+F 5 "A-1121" H 6600 2200 50  0001 C CNN "SKU"
+	1    6600 2200
+	1    0    0    1   
+$EndComp
+$Comp
+L ao_symbols:AudioJack2 J5
+U 1 1 612D81C5
+P 8800 3350
+F 0 "J5" H 8620 3333 50  0000 R CNN
+F 1 "AudioJack2" H 8620 3424 50  0000 R CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 8800 3350 50  0001 C CNN
+F 3 "~" H 8800 3350 50  0001 C CNN
+F 4 "Tayda" H 8800 3350 50  0001 C CNN "Vendor"
+F 5 "A-1121" H 8800 3350 50  0001 C CNN "SKU"
+	1    8800 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L ao_symbols:AudioJack2 J4
+U 1 1 612D9E81
+P 7850 5300
+F 0 "J4" H 7670 5283 50  0000 R CNN
+F 1 "AudioJack2" H 7670 5374 50  0000 R CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 7850 5300 50  0001 C CNN
+F 3 "~" H 7850 5300 50  0001 C CNN
+F 4 "Tayda" H 7850 5300 50  0001 C CNN "Vendor"
+F 5 "A-1121" H 7850 5300 50  0001 C CNN "SKU"
+	1    7850 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L ao_symbols:2N3904 Q1
+U 1 1 612EC2D0
+P 1300 4250
+F 0 "Q1" H 1490 4296 50  0000 L CNN
+F 1 "2N3904" H 1490 4205 50  0000 L CNN
+F 2 "ao_tht:TO-92_Inline_Wide" H 1500 4175 50  0001 L CIN
+F 3 "" H 1300 4250 50  0001 L CNN
+F 4 "Tayda" H 1300 4250 50  0001 C CNN "Vendor"
+F 5 "A-111" H 1300 4250 50  0001 C CNN "SKU"
+	1    1300 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:TL071 U3
+U 1 1 612EE3EF
+P 8250 4250
+F 0 "U3" H 8350 4500 50  0000 L CNN
+F 1 "TL071" H 8300 4400 50  0000 L CNN
+F 2 "ao_tht:DIP-8_W7.62mm_Socket_LongPads" H 8300 4300 50  0001 C CNN
+F 3 "" H 8400 4400 50  0001 C CNN
+F 4 "Tayda" H 8250 4250 50  0001 C CNN "Vendor"
+F 5 "A-1135" H 8250 4250 50  0001 C CNN "SKU"
+	1    8250 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:TL074 U2
+U 1 1 612F59FA
+P 3900 6000
+F 0 "U2" H 3900 5633 50  0000 C CNN
+F 1 "TL074" H 3900 5724 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3850 6100 50  0001 C CNN
+F 3 "" H 3950 6200 50  0001 C CNN
+F 4 "Tayda" H 3900 6000 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 3900 6000 50  0001 C CNN "SKU"
+	1    3900 6000
+	1    0    0    1   
+$EndComp
+$Comp
+L ao_symbols:Synth_power_2x5 J1
+U 1 1 6130149A
+P 1250 7100
+F 0 "J1" H 1250 7547 60  0000 C CNN
+F 1 "Synth_power_2x5" H 1250 7441 60  0000 C CNN
+F 2 "ao_tht:Power_Header" H 1250 7100 60  0001 C CNN
+F 3 "" H 1250 7100 60  0001 C CNN
+F 4 "Tayda" H 1250 7100 50  0001 C CNN "Vendor"
+F 5 "A-2939" H 1250 7100 50  0001 C CNN "SKU"
+	1    1250 7100
+	1    0    0    -1  
+$EndComp
+Connection ~ 1700 7300
+Connection ~ 1700 6900
+$Comp
+L ao_symbols:1N5817 D2
+U 1 1 6132916A
+P 2400 7300
+F 0 "D2" H 2400 7517 50  0000 C CNN
+F 1 "1N5817" H 2400 7426 50  0000 C CNN
+F 2 "ao_tht:D_DO-41_SOD81_P7.62mm_Horizontal" H 2400 7125 50  0001 C CNN
+F 3 "" H 2400 7300 50  0001 C CNN
+F 4 "Tayda" H 2400 7300 50  0001 C CNN "Vendor"
+F 5 "A-159" H 2400 7300 50  0001 C CNN "SKU"
+	1    2400 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:1N5817 D1
+U 1 1 613297C4
+P 2400 6900
+F 0 "D1" H 2400 7117 50  0000 C CNN
+F 1 "1N5817" H 2400 7026 50  0000 C CNN
+F 2 "ao_tht:D_DO-41_SOD81_P7.62mm_Horizontal" H 2400 6725 50  0001 C CNN
+F 3 "" H 2400 6900 50  0001 C CNN
+F 4 "Tayda" H 2400 6900 50  0001 C CNN "Vendor"
+F 5 "A-159" H 2400 6900 50  0001 C CNN "SKU"
+	1    2400 6900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:1N4148 D7
+U 1 1 61333727
+P 5350 1900
+F 0 "D7" H 5350 2117 50  0000 C CNN
+F 1 "1N4148" H 5350 2026 50  0000 C CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 5350 1725 50  0001 C CNN
+F 3 "" H 5350 1900 50  0001 C CNN
+F 4 "Tayda" H 5350 1900 50  0001 C CNN "Vendor"
+F 5 "A-157" H 5350 1900 50  0001 C CNN "SKU"
+	1    5350 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:1N4148 D9
+U 1 1 6133416F
+P 8250 2200
+F 0 "D9" H 8250 2417 50  0000 C CNN
+F 1 "1N4148" H 8250 2326 50  0000 C CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 8250 2025 50  0001 C CNN
+F 3 "" H 8250 2200 50  0001 C CNN
+F 4 "Tayda" H 8250 2200 50  0001 C CNN "Vendor"
+F 5 "A-157" H 8250 2200 50  0001 C CNN "SKU"
+	1    8250 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:1N4148 D4
+U 1 1 6133527C
+P 4100 4000
+F 0 "D4" H 4100 4217 50  0000 C CNN
+F 1 "1N4148" H 4100 4126 50  0000 C CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 4100 3825 50  0001 C CNN
+F 3 "" H 4100 4000 50  0001 C CNN
+F 4 "Tayda" H 4100 4000 50  0001 C CNN "Vendor"
+F 5 "A-157" H 4100 4000 50  0001 C CNN "SKU"
+	1    4100 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:1N4148 D5
+U 1 1 61335FC6
+P 4250 4950
+F 0 "D5" V 4296 5030 50  0000 L CNN
+F 1 "1N4148" V 4205 5030 50  0000 L CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 4250 4775 50  0001 C CNN
+F 3 "" H 4250 4950 50  0001 C CNN
+F 4 "Tayda" H 4250 4950 50  0001 C CNN "Vendor"
+F 5 "A-157" H 4250 4950 50  0001 C CNN "SKU"
+	1    4250 4950
+	0    1    -1   0   
+$EndComp
+$Comp
+L ao_symbols:1N4148 D6
+U 1 1 61336CBA
+P 4250 5750
+F 0 "D6" V 4296 5830 50  0000 L CNN
+F 1 "1N4148" V 4205 5830 50  0000 L CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 4250 5575 50  0001 C CNN
+F 3 "" H 4250 5750 50  0001 C CNN
+F 4 "Tayda" H 4250 5750 50  0001 C CNN "Vendor"
+F 5 "A-157" H 4250 5750 50  0001 C CNN "SKU"
+	1    4250 5750
+	0    1    -1   0   
+$EndComp
+$Comp
+L ao_symbols:1N4148 D8
+U 1 1 613371EE
+P 6700 3750
+F 0 "D8" H 6700 3967 50  0000 C CNN
+F 1 "1N4148" H 6700 3876 50  0000 C CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 3575 50  0001 C CNN
+F 3 "" H 6700 3750 50  0001 C CNN
+F 4 "Tayda" H 6700 3750 50  0001 C CNN "Vendor"
+F 5 "A-157" H 6700 3750 50  0001 C CNN "SKU"
+	1    6700 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:1N4148 D10
+U 1 1 61337911
+P 9200 4850
+F 0 "D10" H 9200 5067 50  0000 C CNN
+F 1 "1N4148" H 9200 4976 50  0000 C CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 4675 50  0001 C CNN
+F 3 "" H 9200 4850 50  0001 C CNN
+F 4 "Tayda" H 9200 4850 50  0001 C CNN "Vendor"
+F 5 "A-157" H 9200 4850 50  0001 C CNN "SKU"
+	1    9200 4850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:1N4148 D3
+U 1 1 61339B32
+P 3150 2400
+F 0 "D3" V 3104 2480 50  0000 L CNN
+F 1 "1N4148" V 3195 2480 50  0000 L CNN
+F 2 "ao_tht:D_DO-35_SOD27_P7.62mm_Horizontal" H 3150 2225 50  0001 C CNN
+F 3 "" H 3150 2400 50  0001 C CNN
+F 4 "Tayda" H 3150 2400 50  0001 C CNN "Vendor"
+F 5 "A-157" H 3150 2400 50  0001 C CNN "SKU"
+	1    3150 2400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1700 7300 2250 7300
 $EndSCHEMATC
