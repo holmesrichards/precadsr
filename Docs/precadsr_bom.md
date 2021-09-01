@@ -42,15 +42,16 @@ Generated from schematic by Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1
 | R31 | 1 | B10k | \*\*Potentiometer, 16 mm vertical board mount |  |  | Tayda | A-1624 or A-2969 |
 | S1 | 1 | SW_3PDT_x3 | 3PDT miniature toggle switch |  |  | Tayda | A-1955 |
 | S2 | 1 | SW_SPDT | SPDT miniature toggle switch |  |  | Tayda | A-3186 |
-| S3 | 1 | SW_Push | Push button switch OFF-(ON) | Dailywell | PAS6B2M1CESG2-5, PAS6B2M4CESG6-5, or PAS6B2M4CESG6-5 | Tayda | A-3545, A-3489, or A-3499\*\*\* |
+| S3 | 1 | SW_Push | Push button switch OFF-(ON) | Dailywell | PAS6B3M1CESA3-5 or PAS6B3M1CESA2-5 | Tayda | A-3486 or A-3487\*\*\* |
 | U1 | 1 | ICM7555xP | CMOS General Purpose Timer, 555 compatible, PDIP-8 |  |  |  |  |
 | U2 | 1 | TL074 | Quad operational amplifier, DIP-14 |  |  | Tayda | A-1138 |
 | U3 | 1 | TL071 | Operational amplifier, DIP-8 |  |  | Tayda | A-1135 |
 | | 2 | | 8 pin DIP socket | | | Tayda | A-001 |
 | | 1 | | 14 pin DIP socket | | | Tayda | A-004 |
 | | 4 | | Knobs | | | |
-| | | | Screws and spacers (see [build notes](build.md))
-  
+| | | | Screws, nuts, and spacers (see [build notes](build.md))
+| | 1 | Conn_01x02 | SIP socket, 2.54 mm, 1x2 (see [build notes](build.md)) |  |  | Tayda | A-1605 |
+
 \* Fit SIP socket only if you want to socket the timing capacitors.
-\*\* Use only four (4) potentiometers, either 9 mm or 16 mm vertical board mount.
-\*\*\* A-3586, A-3587, and A-3588 look similar but are normally closed rather than normally open and will not work. Ask me how I know this. And by "ask me" I mean "shut up".
+\*\* Use only four (4) potentiometers, either 9 mm or 16 mm vertical board mount. Only 16 mm have been tested and there could be mechanical difficulties using 9 mm. See [build notes](build.md).
+\*\*\* A-3488 looks similar but is normally closed rather than normally open and will not work. Ask me how I know this. And by "ask me" I mean "shut up".

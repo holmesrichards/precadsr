@@ -8,13 +8,15 @@ C10 and C11 are the capacitors that determine the envelope shape in conjunction 
 
 In my tests, both aluminum electrolytic and tantalum caps caused the envelope's maximum to fall a little short of 8 V, and the sustain level to slope downwards with long gates. In both respects the tantalum did a little better, but not much. On the other hand a polyester film cap resulted in a maximum of 8 V and a flat sustain. Unfortunately 10 µF film caps are large and expensive, and ten 1 µF film caps in parallel would require an auxiliary board nearly as large as the main one. So my preference is a 1 µF film and a 10 µF tantalum.
 
-If you want to experiment, you can. J6 is an optional SIP socket (you could use a pin header, but a SIP socket works better) for socketing the capacitors. There are 7 positions. As indicated by the lines on the silkscreen graphtics, the C11 + leg (if polarized) can go in either of the leftmost two positions, the C11 - leg in either of the next two, the C10 + leg in either of the next two, and the C10 - leg in the last one. This accommodates various possibilities for cap lead spacing. When and if you decide on a pair of capacitors you can solder them into the C10 and C11 footprints above the SIP socket.
+If you want to experiment, you can. J6 is an optional SIP socket (you could use a pin socket, but a SIP socket works better) for socketing the capacitors. There are 7 positions. As indicated by the lines on the silkscreen graphtics, the C11 + leg (if polarized) can go in either of the leftmost two positions, the C11 - leg in either of the next two, the C10 + leg in either of the next two, and the C10 - leg in the last one. This accommodates various possibilities for cap lead spacing. When and if you decide on a pair of capacitors you can solder them into the C10 and C11 footprints above the SIP socket.
+
+![](../Images/capsocket.png)
 
 ## Mechanical assembly
 
-Regarding the board mounted potentiometers, there are two overlapping footprints provided for each, allowing you to use your choice of 9 mm or 16 mm vertical pots. You can even use a mix of the two, if you want.
+Regarding the board mounted potentiometers, there are two overlapping footprints provided for each, allowing you to use your choice of 9 mm or 16 mm vertical pots. You can even use a mix of the two, if you want. But see below for possible issues; I have tested only 16 mm.
 
-Putting everything together is a little complicated. At least it is if your 3PDT toggle switch, like mine, is a few mm taller than a DPDT toggle. In that case the pots and switches board ("Board B") must sit a few mm further from the front panel than usual.
+Putting everything together is a little complicated. At least it is if your 3PDT toggle switch, like mine, is a few mm taller than the SPDT toggle.\* In that case the pots and switches board ("Board B") must sit a few mm further from the front panel than usual.
 
 At least with the components I used, I found:
 
@@ -46,6 +48,10 @@ To do the pin headers and sockets, first attach spacers on the non component sid
 
 To mount the potentiometers and switches, separate the two boards again. Place the pots and switches on their footprints on Board B. Don't solder anything. Adjust the nut height on the SPDT switch. Place the front panel over the pots and switches so it is flush with the top of the 3PDT switch and more or less parallel to the board. The SPDT nut should be against the back of the panel. Add washers and nuts, finger tight, to all pots and switches. Verify the pot terminals get through the PCB. Now solder the pots and switches.
 
-To mount the jacks and LED, place the jacks on their footprints on Board A and the LED in the SIP socket. Don't solder anything. Adjust the nut heights on the jacks and verify the height of the LED, trimming its legs as needed. Mate Board A to Board B with the jacks and LED going through their panel holes; the LED and the nuts on the jacks should be against the back of the panel. Add washers and nuts, finger tight, to all jacks. Now solder the jacks.
+To mount the jacks and LED, place the jacks on their footprints on Board A and the LED in the SIP socket. Don't solder anything. Adjust the nut heights on the jacks and verify the height of the LED, trimming its legs as needed. Mate Board A to Board B and the front panel with the jacks and LED going through their panel holes; the LED and the nuts on the jacks should be against the back of the panel. Add washers and nuts, finger tight, to all jacks. Now solder the jacks.
 
-The push button switch goes into the hole on the front panel and then stranded wires run from its terminals to a 2-pin Molex connector. Wires should be long enough to reach the Molex header on Board A. They can be routed through the notch on the edge of Board A.
+The push button switch goes into the hole on the front panel and then stranded wires run from its terminals to a 2-pin Molex connector. Wires should be long enough to reach the Molex header on Board A. They can be routed through the notch on the edge of Board A. Make sure the switch you use is normally open (OFF-(ON)). Tayda sells a similar looking switch which is normally closed (ON-(OFF)). That won't work.
+
+----
+
+\* The Dailywell 3PDT and SPDT toggle switches available from Tayda, per their datasheet, differ in height by 1.65 mm. The 3PDT I used appears to be roughly 2 mm or so taller than the Dailywell SPDT.
