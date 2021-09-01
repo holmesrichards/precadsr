@@ -40,8 +40,8 @@ Generated from schematic by Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1
 | R25, R27, R29 | 3 | A1M | \*\*Potentiometer, 16 mm vertical board mount |  | | Tayda | A-1157 or A-2425 |
 | R30 | 1 | B10k | \*\*Potentiometer, 9 mm vertical board mount OR: |  |  | Tayda | A-1847 |
 | R31 | 1 | B10k | \*\*Potentiometer, 16 mm vertical board mount |  |  | Tayda | A-1624 or A-2969 |
-| S1 | 1 | SW_3PDT_x3 | 3PDT miniature toggle switch |  |  | Tayda | A-1955 |
-| S2 | 1 | SW_SPDT | SPDT miniature toggle switch |  |  | Tayda | A-3186 |
+| S1 | 1 | SW_3PDT_x3 | 3PDT miniature toggle switch ON-ON |  |  | Tayda | A-1955 |
+| S2 | 1 | SW_SPDT | SPDT miniature toggle switch ON-ON |  |  | Tayda | A-3186 |
 | S3 | 1 | SW_Push | Push button switch OFF-(ON) | Dailywell | PAS6B3M1CESA3-5 or PAS6B3M1CESA2-5 | Tayda | A-3486 or A-3487\*\*\* |
 | U1 | 1 | ICM7555xP | CMOS General Purpose Timer, 555 compatible, PDIP-8 |  |  |  |  |
 | U2 | 1 | TL074 | Quad operational amplifier, DIP-14 |  |  | Tayda | A-1138 |

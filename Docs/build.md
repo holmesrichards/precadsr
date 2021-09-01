@@ -38,8 +38,6 @@ It's easier to tell in real life than in the photo that the front panel and PCBs
 
 * In the above photo you can also see my solution to getting the LED legs to reach. I mounted a 2-position SIP socket in the LED footprint and socketed the LED.
 
-If I ever do a new version of this module I might panel mount the 3PDT so these issues don't arise. Then again, that would make for 7 wires to run, so maybe not. It works this way.
-
 ## Assembly order
 
 I suggest the following procedure for assembly. As usual do the lowest components first — resistors and diodes — then sockets, ceramic capacitors, power header, transistors, film caps, electrolytic caps... something like that.
@@ -54,4 +52,4 @@ The push button switch goes into the hole on the front panel and then stranded w
 
 ----
 
-\* The Dailywell 3PDT and SPDT toggle switches available from Tayda, per their datasheet, differ in height by 1.65 mm. The 3PDT I used appears to be roughly 2 mm or so taller than the Dailywell SPDT.
+\* The Dailywell 3PDT and SPDT toggle switches available from Tayda, per their datasheet, appear to differ in height by 3.16 mm. (8.89 mm vs (10.54+1.52) mm if I'm reading it right.) 
