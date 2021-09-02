@@ -6,11 +6,17 @@ The build is pretty straightforward except for mechanical assembly, and one othe
 
 C10 and C11 are the capacitors that determine the envelope shape in conjunction with the four pots. The "Speed" switch selects whether C10 ("fast") or C11 ("slow") is used. 1 µF for C10 and 10 µF for C11 is suggested but you can try other values, smaller ones for faster timings and larger ones for slower.
 
-In my tests, both aluminum electrolytic and tantalum caps caused the envelope's maximum to fall a little short of 8 V, and the sustain level to slope downwards with long gates. In both respects the tantalum did a little better, but not much. On the other hand a polyester film cap resulted in a maximum of 8 V and a flat sustain. Unfortunately 10 µF film caps are large and expensive, and ten 1 µF film caps in parallel would require an auxiliary board nearly as large as the main one. So my preference is a 1 µF film and a 10 µF tantalum.
-
 If you want to experiment, you can. J6 is an optional SIP socket (you could use a pin socket, but a SIP socket works better) for socketing the capacitors. There are 7 positions. As indicated by the lines on the silkscreen graphtics, the C11 + leg (if polarized) can go in either of the leftmost two positions, the C11 - leg in either of the next two, the C10 + leg in either of the next two, and the C10 - leg in the last one. This accommodates various possibilities for cap lead spacing. When and if you decide on a pair of capacitors you can solder them into the C10 and C11 footprints above the SIP socket.
 
 ![](../Images/capsocket.png)
+
+I tried one sample each of aluminum electrolytic and tantalum at 1 µF and 10 µF, as well as a PET film at 1 µF. Attack was set fairly fast, sustain at 100%, release as fast as possible. Interestingly, the tantalum was better (less sag over a 2.5 second sustain) than the aluminum at 1 µF, but at 10 µF the aluminum looked better while the tantalum was horrible: 
+
+![](../Images/captest.png)
+
+I was sufficiently shocked by the 10 µF tanty to try two more (same type, from the same order). One looked about the same, the other was worse. 
+
+The 1 µF film ruled, however; it was just about perfectly flat across the full sustain. Unfortunately 10 µF film caps are large and expensive, and ten 1 µF film caps in parallel would require an auxiliary board nearly as large as the main one. So my current preference is a 1 µF film and a 10 µF aluminum. Of course a sample of one of each type is not a lot to go on.
 
 ## Mechanical assembly
 
