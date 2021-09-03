@@ -11,8 +11,9 @@ Generated from schematic by Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1
 | C1 | 1 | 10nF | Ceramic capacitor |  |  | Tayda | A-962 |
 | C2, C5, C6, C8, C9 | 5 | 100nF | Ceramic capacitor |  |  | Tayda | A-553 |
 | C3, C4, C11 | 3 | 10uF | Electrolytic capacitor |  |  | Tayda | A-4349 |
-| C7, C12, C13 | 3 | 1nF | Film capacitor |  |  | Tayda | A-1531 or A-557 |
+| C7, C12 | 2 | 1nF | Film capacitor |  |  | Tayda | A-1531 or A-557 |
 | C10 | 1 | 1uF | Film capacitor |  |  | Tayda | A-4755 |
+| C13 | 1 | 10nF | Film capacitor |  |  | Tayda | A-559 |
 | D1, D2 | 2 | 1N5817 | Schottky Barrier Rectifier Diode, DO-41 |  |  | Tayda | A-159 |
 | D3, D4, D5, D6, D7, D8, D9, D10 | 8 | 1N4148 | Standard switching diode, DO-35 |  |  | Tayda | A-157 |
 | J1 | 1 | Synth_power_2x5 | Pin header 2.54 mm 2x5 |  |  | Tayda | A-2939 |

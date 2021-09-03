@@ -1,6 +1,10 @@
 # Precision ADSR build notes
 
-The build is pretty straightforward except for mechanical assembly, and one other thing:
+The build is pretty straightforward except for mechanical assembly, and two other things:
+
+## Erratum
+
+C13 is marked on the first run PCBs as 1 nF. It should be 10 nF.
 
 ## Timing capacitors
 

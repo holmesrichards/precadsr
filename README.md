@@ -11,10 +11,6 @@ The present design adds the following features:
 * Retriggering input, allowing additional attack/decay peaks on top of the sustain.
 * Looping mode, allowing attack-decay envelopes to repeat as long as a gate is present, or, if nothing is plugged into the gate input, indefinitely. This can be used as a sequence of envelopes or as a kind of odd LFO.
 
-## Known problems
-
-I’ve discovered looping stops if the decay time is turned up beyond some point, about 2/3 or a little less of the way up on the fast setting or maybe 20% of the way up on the slow setting (which is about the same decay time). The whole attack time range is available and the decay time limit doesn’t seem to depend on attack time. Sometimes it’ll go for 2 or 3 pulses before stopping. I have no idea why unless it has to do with the folly of using a TL071 as a comparator.
-
 ## Photos
 
 ![](Images/IMG_6753.JPG)
