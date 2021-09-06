@@ -24,6 +24,7 @@ The present design adds the following features:
 * PCB layout: [front](Docs/precadsr_layout_front.pdf), [back](Docs/precadsr_layout_back.pdf)
 * [BOM](Docs/precadsr_bom.md)
 * [Build notes](Docs/build.md)
+* [How to use](Docs/use.md)
 
 ## GitHub repository
 
