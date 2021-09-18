@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="8.5in"
    height="11in"
    viewBox="0 0 8.5 11"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
    sodipodi:docname="precadsr_panel.svg"
    inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
    inkscape:export-xdpi="101.46574"
-   inkscape:export-ydpi="101.46574">
+   inkscape:export-ydpi="101.46574"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -221,7 +221,11 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1493">
+       id="filter1493"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feBlend
          inkscape:collect="always"
          mode="screen"
@@ -326,11 +330,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="107.31578"
-     inkscape:cy="667.39012"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="137.17872"
+     inkscape:cy="463.86205"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer11"
      showgrid="false"
      units="in"
      inkscape:window-width="1555"
@@ -349,7 +353,8 @@
      inkscape:snap-text-baseline="true"
      inkscape:object-paths="true"
      inkscape:snap-global="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid10120"
@@ -433,7 +438,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1263,7 +1267,8 @@
        id="g1706"
        transform="translate(9.3307088,-2.4173225)"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1281,7 +1286,8 @@
        transform="translate(9.3307088,-1.0393698)"
        id="g1734"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          cy="5.5669289"
          cx="-5.9055119"
@@ -1299,7 +1305,8 @@
        id="g1762"
        transform="translate(9.3307038,0.33858359)"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1317,7 +1324,8 @@
        transform="translate(9.3307044,1.7165369)"
        id="g1790"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          cy="5.5669289"
          cx="-5.9055119"
@@ -1337,7 +1345,8 @@
        d="m 2.1692854,6.5787405 h 0.622047 V 7.200788 H 2.3346394 L 2.1692854,7.0433077 Z"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        r="0.21653543"
        cy="6.8897662"
@@ -1345,12 +1354,14 @@
        id="circle1820"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <g
        transform="translate(5.8751822,0.7916792)"
        id="g1927"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <rect
          y="2.1079266"
          x="-3.6198721"
@@ -1371,7 +1382,8 @@
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.1692854,6.5787405 h 0.622047 V 7.200788 H 2.3346394 L 2.1692854,7.0433077 Z"
        id="path1681"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        inkscape:export-ydpi="101.46574"
        inkscape:export-xdpi="101.46574"
@@ -1379,14 +1391,16 @@
        id="circle1683"
        cx="2.4803088"
        cy="6.8897662"
-       r="0.21653543" />
+       r="0.21653543"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:export-ydpi="101.46574"
        inkscape:export-xdpi="101.46574"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.1692865,8.5472429 h 0.622047 V 9.1692904 H 2.3346405 L 2.1692865,9.0118101 Z"
        id="path1721"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        inkscape:export-ydpi="101.46574"
        inkscape:export-xdpi="101.46574"
@@ -1394,14 +1408,16 @@
        id="circle1723"
        cx="2.48031"
        cy="8.8582678"
-       r="0.21653543" />
+       r="0.21653543"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1725"
        d="m 2.1692865,8.5472429 h 0.622047 V 9.1692904 H 2.3346405 L 2.1692865,9.0118101 Z"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        r="0.21653543"
        cy="8.8582678"
@@ -1409,14 +1425,16 @@
        id="circle1727"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1767"
        d="m 3.1141734,8.5472427 h 0.622047 V 9.1692902 H 3.2795274 L 3.1141734,9.0118099 Z"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        r="0.21653543"
        cy="8.8582678"
@@ -1424,14 +1442,16 @@
        id="circle1769"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:export-ydpi="101.46574"
        inkscape:export-xdpi="101.46574"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.1141734,8.5472427 h 0.622047 V 9.1692902 H 3.2795274 L 3.1141734,9.0118099 Z"
        id="path1771"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        inkscape:export-ydpi="101.46574"
        inkscape:export-xdpi="101.46574"
@@ -1439,12 +1459,14 @@
        id="circle1773"
        cx="3.4251969"
        cy="8.8582678"
-       r="0.21653543" />
+       r="0.21653543"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <g
        inkscape:export-ydpi="101.46574"
        inkscape:export-xdpi="101.46574"
        id="g1817"
-       transform="translate(5.8751822,2.1696319)">
+       transform="translate(5.8751822,2.1696319)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <rect
          style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1813"
@@ -1466,7 +1488,8 @@
        id="circle4636"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574" />
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        inkscape:export-ydpi="101.46574"
        inkscape:export-xdpi="101.46574"
@@ -1474,7 +1497,8 @@
        id="circle4638"
        cx="2.4803143"
        cy="7.8740191"
-       r="0.21653543" />
+       r="0.21653543"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1488,9 +1512,9 @@
        height="7.8740182"
        x="1.968504"
        y="1.9685038"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1504,34 +1528,34 @@
        height="7.8740182"
        x="1.9685038"
        y="1.9685035"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.968504,9.4488214 H 3.9370086"
        id="path4204"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.968504,2.3622047 H 3.9370086"
        id="path4206"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.9921253"
        y="2.2283461"
        id="text4163"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan4161"
          x="2.9921253"
@@ -1543,9 +1567,9 @@
        x="2.9527552"
        y="9.6850395"
        id="text4163-1"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan4161-0"
          x="2.9527552"
@@ -1648,9 +1672,9 @@
        id="path1957"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <flowRoot
        transform="matrix(0.01041667,0,0,0.01041667,-2.4632552e-6,0.590545)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3131,18 +3155,18 @@
        id="circle1708"
        cx="3.4252009"
        cy="3.1496053"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.4252009"
        y="3.8188941"
        id="text1712"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan1710"
          x="3.4252009"
@@ -3154,18 +3178,18 @@
        id="circle1736"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        id="text1740"
        y="5.2022004"
        x="3.4251959"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="5.2022004"
          x="3.4251959"
@@ -3177,18 +3201,18 @@
        id="circle1764"
        cx="3.4251962"
        cy="5.9055114"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.4251962"
        y="6.5748038"
        id="text1768"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan1766"
          x="3.4251962"
@@ -3200,18 +3224,18 @@
        id="circle1792"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        id="text1796"
        y="7.9527564"
        x="3.4251924"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="7.9527564"
          x="3.4251924"
@@ -3223,18 +3247,18 @@
        cx="2.4803088"
        cy="6.8897643"
        r="0.27559054"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4803097"
        y="7.3622093"
        id="text1826"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan1824"
          x="2.4803097"
@@ -3246,18 +3270,18 @@
        id="circle1929"
        cx="2.48031"
        cy="3.1496062"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.48031"
        y="3.503937"
        id="text1933"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan1931"
          x="2.48031"
@@ -3269,9 +3293,9 @@
        x="2.48031"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="2.9133859"
          x="2.48031"
@@ -3283,9 +3307,9 @@
        x="3.4251969"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
          y="9.3307085"
          x="3.4251969"
@@ -3297,9 +3321,9 @@
        x="2.480315"
        y="9.3307009"
        id="text1878"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan1876"
          x="2.480315"
@@ -3310,74 +3334,74 @@
        id="path2021"
        d="m 2.3621919,8.8561952 0.5905591,0.00207"
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        r="0.27559054"
        cy="8.8582659"
        cx="2.48031"
        id="circle1729"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1775"
        cx="3.4251969"
        cy="8.8582659"
        r="0.27559054"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        cy="4.5275593"
        cx="2.48031"
        id="circle1819"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        id="text1823"
        y="4.8818898"
        x="2.48031"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="4.8818898"
          x="2.48031"
          id="tspan1821"
          sodipodi:role="line">OFF</tspan></text>
     <text
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.48031"
        y="4.2913384"
        id="text1827"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan1825"
          x="2.48031"
          y="4.2913384"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">ON</tspan></text>
     <text
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.48031"
        y="5.1181102"
        id="text1847"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan1845"
          x="2.48031"
@@ -3389,9 +3413,9 @@
        x="2.48031"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="3.7401576"
          x="2.48031"
@@ -3403,27 +3427,27 @@
        id="path2015"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4640"
        cx="2.4803143"
        cy="7.8740172"
        r="0.27559054"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4803152"
        y="8.3464622"
        id="text4644"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"><tspan
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"><tspan
          sodipodi:role="line"
          id="tspan4642"
          x="2.4803152"
@@ -3435,34 +3459,34 @@
        cx="2.4803088"
        cy="6.8897643"
        r="0.27559054"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4681"
        cx="2.4803092"
        cy="5.9055114"
        r="0.27559054"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        r="0.098425195"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4683"
        cx="2.9527507"
        cy="8.8595953"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0208333;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 3.2823957,9.1601362 H 3.5674658"
        id="path4691"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-art.png"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3472,9 +3496,9 @@
     <g
        id="g1993"
        transform="translate(4.7440944,1.6535375)"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png">
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          transform="scale(-1,1)"
          r="0.062992252"
@@ -3838,156 +3862,156 @@
        id="circle1714"
        cx="3.4252009"
        cy="3.1496053"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4251969,3.0511802 v 0.196852"
        id="path1716"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5236219,3.1496062 h -0.19685"
        id="path1718"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        cy="4.5275593"
        cx="3.4251969"
        id="circle1742"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.13779527"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1744"
        d="m 3.4251927,4.4291344 v 0.196852"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1746"
        d="m 3.5236177,4.5275604 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        r="0.13779527"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1770"
        cx="3.4251962"
        cy="5.9055114"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4251919,5.8070862 v 0.196852"
        id="path1772"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5236169,5.9055122 h -0.19685"
        id="path1774"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        cy="7.2834644"
        cx="3.4251966"
        id="circle1798"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.13779527"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1800"
        d="m 3.4251925,7.1850396 v 0.196852"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        inkscape:connector-curvature="0"
        id="path1802"
        d="m 3.5236175,7.2834656 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1828"
        cx="2.4803088"
        cy="6.8897643"
        r="0.19685039"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4803044,6.7913398 V 6.9881903"
        id="path1830"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5787294,6.889765 h -0.19685"
        id="path1832"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        r="0.13779527"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1935"
        cx="2.48031"
        cy="3.1496062"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4803057,3.0511816 V 3.2480321"
        id="path1937"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5787307,3.1496068 h -0.19685"
        id="path1939"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <g
        transform="translate(6.3661411,1.6535375)"
        id="g2001"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png">
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle1995"
@@ -4013,9 +4037,9 @@
     <g
        transform="translate(4.7440944,9.2913328)"
        id="g2009"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png">
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2003"
@@ -4041,9 +4065,9 @@
     <g
        id="g2017"
        transform="translate(6.3661411,9.2913328)"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png">
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png">
       <circle
          transform="scale(-1,1)"
          r="0.062992252"
@@ -4067,161 +4091,161 @@
          style="fill:#000000;fill-rule:evenodd;stroke-width:0.0104167" />
     </g>
     <circle
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        r="0.19685039"
        cy="6.8897643"
        cx="2.4803088"
        id="circle1685"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1687"
        d="M 2.4803044,6.7913398 V 6.9881903"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1689"
        d="m 2.5787294,6.889765 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        r="0.19685039"
        cy="8.8582659"
        cx="2.48031"
        id="circle1735"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1737"
        d="M 2.4803055,8.7598422 V 8.9566927"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1739"
        d="m 2.5787305,8.8582674 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1741"
        cx="2.48031"
        cy="8.8582659"
        r="0.19685039"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4803055,8.7598422 V 8.9566927"
        id="path1743"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5787305,8.8582674 h -0.19685"
        id="path1745"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1781"
        cx="3.4251969"
        cy="8.8582659"
        r="0.19685039"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4251924,8.759842 V 8.9566925"
        id="path1783"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5236174,8.8582672 h -0.19685"
        id="path1785"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        r="0.19685039"
        cy="8.8582659"
        cx="3.4251969"
        id="circle1787"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1789"
        d="M 3.4251924,8.759842 V 8.9566925"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1791"
        d="m 3.5236174,8.8582672 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        cy="4.5275593"
        cx="2.48031"
        id="circle1829"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.13779527"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1831"
        d="M 2.4803057,4.4291344 V 4.6259849"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path1833"
        d="m 2.5787307,4.5275596 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <g
        id="g2051"
        transform="translate(3.2863614,0.34149844)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574">
       <circle
          r="0.24015749"
          cy="5.564013"
@@ -4250,75 +4274,75 @@
        cx="2.4803143"
        cy="7.8740172"
        r="0.19685039"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4803098,7.7755925 V 7.972443"
        id="path4648"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5787348,7.8740177 h -0.19685"
        id="path4650"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        r="0.19685039"
        cy="7.8740172"
        cx="2.4803143"
        id="circle4652"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path4654"
        d="M 2.4803098,7.7755925 V 7.972443"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <path
-       inkscape:export-ydpi="999.99768"
-       inkscape:export-xdpi="999.99768"
+       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="101.46574"
        inkscape:connector-curvature="0"
        id="path4657"
        d="m 2.5787348,7.8740177 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png" />
     <circle
        r="0.098425195"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4685"
        cx="2.9527507"
        cy="8.8595953"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.9527508,8.8202247 v 0.07874"
        id="path4687"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.992121,8.8582675 H 2.913381"
        id="path4689"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel-holes.png"
-       inkscape:export-xdpi="999.99768"
-       inkscape:export-ydpi="999.99768" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5298,26 +5322,24 @@
          id="rect1839"
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <g
-       style="display:inline;opacity:1"
-       transform="translate(5.0507804,-22.066911)"
-       id="g878"
+    <circle
+       r="0.37007874"
+       cy="5.9099488"
+       cx="2.4803097"
+       id="path872"
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
        inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574">
-      <circle
-         r="0.37007874"
-         cy="27.97686"
-         cx="-2.5704706"
-         id="path872"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="0.23622048"
-         style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle874"
-         cx="-2.5704706"
-         cy="27.97686" />
-    </g>
+       inkscape:export-ydpi="101.46574" />
+    <circle
+       r="0.23622048"
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle874"
+       cx="2.4803097"
+       cy="5.9099488"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Kassutronics/Precision ADSR/PrecADSRmod/Images/precadsr-panel.png"
+       inkscape:export-xdpi="101.46574"
+       inkscape:export-ydpi="101.46574" />
     <g
        transform="matrix(1.000002,0,0,1.000002,3.0351058,1.9038237)"
        style="display:inline"
