@@ -11,6 +11,9 @@ The present design adds the following features:
 * Retriggering input, allowing additional attack/decay peaks on top of the sustain (inspired by but simplified from Benjamin AM's [design](https://electro-music.com/forum/post-372492.html#372492)).
 * Looping mode, allowing attack-decay envelopes to repeat as long as a gate is present, or, if nothing is plugged into the gate input, indefinitely. This can be used as a sequence of envelopes or as a kind of odd LFO.
 
+## Current draw
+12 mA +12 V, 10 mA -12 V
+
 ## Photos
 
 ![](Images/IMG_6753.JPG)
